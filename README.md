@@ -1,22 +1,29 @@
 # MIST 353 Assignment 2: Prototype Development and Research for Web Application
 
-**1. Complete a Competitive Analysis**
-- website 1
-	- Write a paragraph, Identify things you recognize
-- website 2
-	- Write a paragraph, Identify things you recognize
-- website 3
-	- Write a paragraph, Identify things you recognize
-note any ideas may want to add / include
+## 1. Complete a Competitive Analysis
+- website 1 / Identify 
+	- Write a paragraph, mark down things you recognize
+	- TECHNICAL INSPECTION / INSPECT ELEMENT 
+	- NOTICE ANY URL CHANGES OR SIGNIFICANCE OF ? OR # IN URL 
+
+- website 2 / Identify
+	- Write a paragraph, mark down things you recognize
+	- TECHNICAL INSPECTION / INSPECT ELEMENT
+	- NOTICE ANY URL CHANGES OR SIGNIFICANCE OF ? OR # IN URL 
+- website 3 / Identify 
+	- Write a paragraph, mark down things you recognize
+	- TECHNICAL INSPECTION / INSPECT ELEMENT
+	- NOTICE ANY URL CHANGES OR SIGNIFICANCE OF ? OR # IN URL 
+^^ note any ideas may want to add / include ^^
 
 
-**2. Complete Github Repository Research**
-- website 1
+## 2. Complete Github Repository Research
+- GITHUB 1
 	- summarize each repository and your takeaways from the READMEs
-- website 2
+- GITHUB 2
 	- summarize each repository and your takeaways from the READMEs
 
-**3. Develop a Prototype**
+## 3. Develop a Prototype
 - mention changes made to index file
 - mention changes made to searchresults
 LOOK BACK AT RUBRIC MISSED SOME REQUIREMENTS HERE 
