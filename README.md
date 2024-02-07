@@ -52,7 +52,7 @@ and a Bootstrap class not discussed in class (as of 1/18).
 	- Through [Bootswatch](https://bootswatch.com/solar/), I was able to find a theme that I liked and applied it to my project. Within the theme I also implemented a button that shows a shadow when you hover over it.
 - Custom CSS - Write CSS for HTML classes in css/site.css, with at least 3 properties, 2 of which that have not been taught in class (as of 1/18). This should
 accomplish something that CANNOT be done using Bootstrap classes.
-- Within my site.css I wrote four custom classes, while I think only three accomplish tasks that cannot be done through Bootstrap. While the first two are basic, I played with the css animation for a little while with the help of [w3schools](https://www.w3schools.com/css/css3_animations.asp). 
+	- Within my site.css I wrote four custom classes, while I think only three accomplish tasks that cannot be done through Bootstrap. While the first two are basic, I played with the css animation for a little while with the help of [w3schools](https://www.w3schools.com/css/css3_animations.asp). 
 	1. TextAlign
 		- Simply centers text, used in my alert at top of page
 	2. TextFont
@@ -92,5 +92,3 @@ This output was much more helpful but required a few changes that had to be done
 I used the [Quickstart for writing on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) for Markdown ideas.
 
 All other references are linked throughout this document.
-
-SUBMIT PHOTO OF DOG WITH GITHUB LINK TO ECAMPUS 
