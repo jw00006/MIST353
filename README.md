@@ -78,7 +78,7 @@ accomplish something that CANNOT be done using Bootstrap classes.
 	- When first looking over the rubric for this assignment I was very worried going into the project with my little bit of HTML knowledge, however it went much smoother than I was anticipating. The video you had posted was easily the most helpful of any resource though, it even discussed how and where to implement certain items that would satisfy the requirements of the project.  
 	- W3Schools had the answer to almost every question I had, and if it didn't, I had just not looked hard enough as there's so much useful information packed into that one website. One of the only hiccups I ran into was with implementing a little bit of javascript, which is when I asked Chat GPT for some assistance with creating an animation. 
 ## References 
-To construct the javascript element of this project I used [Chat GPT3.5](https://chat.openai.com) with the following prompt:
+To construct the javascript element of this project I used [Chat GPT 3.5](https://chat.openai.com) with the following prompt:
 
 > "What is a basic animation that I could write in my site.css that will effect some text in my index.cshtml page? Perhaps for my title text?"
 
