@@ -26,8 +26,7 @@
 
 ## Complete Github Repository Research
 - [U-Weather](https://github.com/uchechukwuekemezie/u-weather-app?trk=article-ssr-frontend-pulse_little-text-block)
-	- This repository is for a weather app that allows for users to check the current weather in a specific location/city they can search for. This repo has a nicely organized README and includes a description of the web app and lists the current features of the app. It even includes details near the bottom on how to contribute to the project if anyone would like which I found pretty interesting.  
-	  
+	- This repository is for a weather app that allows for users to check the current weather in a specific location/city they can search for. This repo has a nicely organized README and includes a description of the web app and lists the current features of the app. It even includes details near the bottom on how to contribute to the project if anyone would like which I found pretty interesting. 
 - [Weathque](https://github.com/tortamque/Weathque)
 	- This repository explains that it's a dynamic weather application that provides users with real-time weather data as well as a 5-day forecast. This repository has the most detailed / clean-looking README of any of the READMEs I have looked at, it provides photos that depict the architecture for the API calls and the Storage calls which I haven't seen before. This README even shows a handful of screenshots of the web app in use on a mobile device with different background themes enabled. I am definitely going to be returning to this README after more ammendments are made to this project.  
 
@@ -53,13 +52,13 @@ and a Bootstrap class not discussed in class (as of 1/18).
 - Custom CSS - Write CSS for HTML classes in css/site.css, with at least 3 properties, 2 of which that have not been taught in class (as of 1/18). This should
 accomplish something that CANNOT be done using Bootstrap classes.
 	- Within my site.css I wrote four custom classes, while I think only three accomplish tasks that cannot be done through Bootstrap. While the first two are basic, I played with the css animation for a little while with the help of [w3schools](https://www.w3schools.com/css/css3_animations.asp). 
-	1. TextAlign
+		1. TextAlign
 		- Simply centers text, used in my alert at top of page
-	2. TextFont
+		2. TextFont
 		- Simply changes font to "fantasy", used in the title under the alert
-	3. Rotate 
+		3. Rotate 
 		- Makes an element rotate on its x-axis 360 degrees
-	4. Title
+		4. Title
 		- Allows for the animation to be applied to an element as well as changes to be made to the duration of the animation.  
 - JavaScript - Implement a small custom JavaScript.
 	- I found a simple in-line js script that displays the current date and time when clicked on through [w3schools](https://www.w3schools.com/html/html_scripts.asp). 
