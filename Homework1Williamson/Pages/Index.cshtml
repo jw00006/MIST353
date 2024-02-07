@@ -1,22 +1,48 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "EventPlanr";
 }
-<!-- Alert at top of screen-->
-<div class="alert alert-warning">
-	<strong>Warning!</strong> Site is still under construction.
-</div>
+<html>
+	<head>
+		
+	</head>
 
-<!--Main text-->
-<div>
-	<h1 class="h1">Welcome!</h1>
-	<h2 class="h2">words go here how does this look?</h2>
+<body>
 
-	<a href="/SearchResults" button class="button button1">Search Results</a href>
+    <!-- Alert at top of screen-->
+    <div class="alert alert-warning">
+        <strong>Warning!</strong> Site is still under construction.
+    </div>
 
-		<!--<a href="/SearchResults">Working Link to Search Results Page</a> -->
+    <!--Main text-->
+    <div>
+        <h1 class="h1">Welcome!</h1>
+        <h2 class="h2">words go here how does this look?</h2>
 
-</div>
+
+        <button type="button"
+            onclick="document.getElementById('demo').innerHTML = Date()">
+            Click me to display Date and Time.
+        </button>
+        
+        
+        <a href="/SearchResults" button class="button button1">Search Results</a>
+
+        <!--<a href="/SearchResults">Working Link to Search Results Page</a> -->
+
+    </div>
+
+   
+
+<p id="demo"></p>
 
 
+
+</body>
+
+
+
+
+
+</html>
