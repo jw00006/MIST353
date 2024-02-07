@@ -33,13 +33,13 @@
 - Webpage Creation - Build 2 simple webpages ( .cshtml files) for your application.
 	- I created two basic webpages the same way that we created our index and searchResults pages in class.
 - Navigation - Implement navigation from one page to the other using an anchor
-element ('<a>') with the approriate hypertext reference ('<href>') attribute.
+element (`<a>`) with the approriate hypertext reference (`<href>`) attribute.
 	- Within the index page, I added a button that links to the searchResults page that I found while looking through [w3schools](https://www.w3schools.com/tags/tag_button.asp). 
-- HTML Structure - Use proper headings including at least 1 ('<h1>') and 3 ('<h2>') tags
+- HTML Structure - Use proper headings including at least 1 (`<h1>`) and 3 (`<h2>`) tags
 across the pages.
-	- Within my index page I used an ('<h1>') and an ('<h2>'), while on my searchResults page I only used two ('<h2>') tags. 
-- Tables - Include a table ('<table>') element with at least 2 rows.
-	- While I was trying to get around using a table by sizing down a few ('<div>') and orienting them to sit side by side, I opted to add the table to my searchResults page for now. 
+	- Within my index page I used an (`<h1>`) and an (`<h2>`), while on my searchResults page I only used two (`<h2>`) tags. 
+- Tables - Include a table (`<table>`) element with at least 2 rows.
+	- While I was trying to get around using a table by sizing down a few (`<div>`) and orienting them to sit side by side, I opted to add the table to my searchResults page for now. 
 - Unique HTML Elements - Incorporate an HTML element not covered in class (as of 1/18).
 	- I tried my best to kinda experiment and play around with different items and ended up adding a few HTML elements we did not discuss in class yet. 
 		- Hamburger icon + different home page name displayed on the top of the browser when opened. 
